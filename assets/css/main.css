@@ -8601,3 +8601,8 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+.other-projects{
+	padding: 5px 2.5px 5px 2.5px;
+	background-color: #cccccc;
+}
